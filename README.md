@@ -82,7 +82,7 @@ assets/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone
    cd SocietyEase
    ```
 
@@ -182,22 +182,7 @@ Sample data is provided in:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- **Developer**: [Your Name]
-- **Design**: Material Design 3
-- **Framework**: Flutter
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact: [your-email@example.com]
-
 ---
+
 
 **SocietyEase** - Making society management easier, one app at a time! 🏠✨ 
