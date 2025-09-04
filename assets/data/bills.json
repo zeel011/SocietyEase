@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Monthly Maintenance",
+    "amount": 2500.0,
+    "dueDate": "2024-12-15T00:00:00.000Z",
+    "status": "Unpaid",
+    "month": "December 2024"
+  },
+  {
+    "id": "2",
+    "title": "Water Charges",
+    "amount": 800.0,
+    "dueDate": "2024-12-22T00:00:00.000Z",
+    "status": "Unpaid",
+    "month": "December 2024"
+  },
+  {
+    "id": "3",
+    "title": "Monthly Maintenance",
+    "amount": 2500.0,
+    "dueDate": "2024-11-15T00:00:00.000Z",
+    "status": "Paid",
+    "month": "November 2024",
+    "receiptUrl": "receipt_nov_2024.pdf"
+  },
+  {
+    "id": "4",
+    "title": "Electricity Charges",
+    "amount": 1200.0,
+    "dueDate": "2024-11-22T00:00:00.000Z",
+    "status": "Paid",
+    "month": "November 2024",
+    "receiptUrl": "electricity_nov_2024.pdf"
+  },
+  {
+    "id": "5",
+    "title": "Monthly Maintenance",
+    "amount": 2500.0,
+    "dueDate": "2024-10-15T00:00:00.000Z",
+    "status": "Paid",
+    "month": "October 2024",
+    "receiptUrl": "receipt_oct_2024.pdf"
+  }
+] 
